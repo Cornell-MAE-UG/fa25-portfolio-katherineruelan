@@ -22,7 +22,7 @@ Extensive background in military and civilian electro-mechanical repair and manu
   *Bachelor of Science in Mechanical Engineering*  
   GPA: 3.46/4.0 | Graduation: May, 2027
 
-- **[Rowan College at Burlington County]**  
+- **Rowan College at Burlington County**  
   *Associate of Science in Engineering*  
   GPA: 4.0/4.0 | Graduation: May, 2024
 
