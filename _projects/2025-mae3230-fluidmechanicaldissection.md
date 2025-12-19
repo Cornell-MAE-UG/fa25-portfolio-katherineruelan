@@ -10,4 +10,8 @@ image: /assets/images/fluids-calculations-carberator.jpg
   Watch the Project Video on YouTube
 </a>
 
+My contributions: 
+- Chainsaw disassembly (2 hrs) 
+- Carberator calculations
+- Video final editing + posting + submission
 
