@@ -15,7 +15,8 @@ For this project, I focused heavily on ciruit design and implementation. I was r
 <h3>Robot Demonstration</h3>
 
 <video width="700" controls>
-  <source src="/assets/videos/andre-match-rivalry.mp4" type="video/mp4">
+  <source src="{{ site.baseurl }}/assets/videos/andre-match-rivalry.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
 
 Full Report Below:
