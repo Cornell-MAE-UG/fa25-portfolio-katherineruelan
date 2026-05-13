@@ -19,9 +19,11 @@ For this project, I focused heavily on ciruit design and implementation. I was r
   Your browser does not support the video tag.
 </video>
 
-
+<br><br><br>
 
 <h4>Full Report Below:</h4>
+
+<br>
 
 <h4>Robot Design and Strategy Overview</h4>
 
